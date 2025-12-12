@@ -67,6 +67,6 @@ spec/reports/
 coverage/
 
 # Keep lockfiles if you want deterministic installs (uncomment to ignore)
-# package-lock.json
+package-lock.json
 yarn.lock
-# pnpm-lock.yaml
+pnpm-lock.yaml
